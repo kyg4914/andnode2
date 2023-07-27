@@ -25,7 +25,7 @@ class LoginActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
 
-        etId = findViewById(R.id.etId)
+        etId = findViewById(R.id.etId)//
         etPw = findViewById(R.id.etPw)
         btnLogin = findViewById(R.id.btnLogin)
 
